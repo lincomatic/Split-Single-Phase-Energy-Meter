@@ -29,7 +29,7 @@
 #include "emoncms.h"
 #include "config.h"
 #include "http.h"
-#include "wifi.h"
+#include "mywifi.h"
 
 //EMONCMS SERVER strings
 const char *e_url = "/input/post.json?json=";

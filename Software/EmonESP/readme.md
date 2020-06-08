@@ -1,3 +1,9 @@
+Lincomatic's notes:
+run "Upload" task to upload firmware
+run "Upload File System Image" task to upload SPIFFS for web pages
+
+
+
 # EmonESP
 
 [![Build Status](https://travis-ci.org/openenergymonitor/EmonESP.svg?branch=master)](https://travis-ci.org/openenergymonitor/EmonESP)

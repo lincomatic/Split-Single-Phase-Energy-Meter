@@ -29,7 +29,7 @@
 #include "emonesp.h"
 #include "mqtt.h"
 #include "config.h"
-#include "wifi.h"
+#include "mywifi.h"
 
 #define MQTT_HOST mqtt_server.c_str()
 #define MQTT_PORT 1883

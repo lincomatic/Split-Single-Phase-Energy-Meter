@@ -29,7 +29,7 @@
 #include "emonesp.h"
 #include "mqtt.h"
 #include "config.h"
-#include "wifi.h"
+#include "mywifi.h"
 
 WiFiClient espClient;                 // Create client for MQTT
 PubSubClient mqttclient(espClient);   // Create client for MQTT
